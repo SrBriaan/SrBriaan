@@ -11,6 +11,7 @@
 
 * 💻 I'm a full stack web developer
 * 🎓 I'm a Computer Science student
+* 🔭 I'm currently working on <a href="https://twitter.com/BattleRIPNet"><img alt="followers" title="@BattleRIPNet" src="https://img.shields.io/twitter/follow/lukkyus?
 
 ## 👨‍💻 Languages and Tools:
 
